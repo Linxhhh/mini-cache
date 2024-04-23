@@ -2,7 +2,8 @@
 
 mini-cache 项目的整体结构大致如下：
 
-![image.png](https://flowus.cn/preview/6a62cc3e-ac33-4254-b81b-502f43fd20b3)
+![Uploading image.png…]()
+
 
 
 
