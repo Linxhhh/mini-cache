@@ -1,7 +1,7 @@
 package test
 
 import (
-	"mini-cache/lru"
+	"github.com/Linxhhh/mini-cache/lru"
 	"testing"
 )
 

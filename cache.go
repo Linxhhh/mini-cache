@@ -1,7 +1,7 @@
 package mini_cache
 
 import (
-	"mini-cache/lru"
+	"github.com/Linxhhh/mini-cache/lru"
 	"sync"
 )
 

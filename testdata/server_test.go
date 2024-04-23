@@ -3,7 +3,7 @@ package test
 import (
 	"fmt"
 	"log"
-	mini_cache "mini-cache"
+	mini_cache "github.com/Linxhhh/mini-cache"
 	"testing"
 )
 

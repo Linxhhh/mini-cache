@@ -3,8 +3,8 @@ package mini_cache
 import (
 	"fmt"
 	"log"
-	"mini-cache/singleflight"
-	"mini-cache/peers"
+	"github.com/Linxhhh/mini-cache/singleflight"
+	"github.com/Linxhhh/mini-cache/peers"
 	"sync"
 )
 

@@ -3,8 +3,8 @@ package mini_cache
 import (
 	"context"
 	"fmt"
-	"mini-cache/peers/peerpb"
-	"mini-cache/registry"
+	"github.com/Linxhhh/mini-cache/peers/peerpb"
+	"github.com/Linxhhh/mini-cache/registry"
 	"time"
 )
 

@@ -1,4 +1,4 @@
-module mini-cache
+module github.com/Linxhhh/mini-cache
 
 go 1.21.5
 
